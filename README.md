@@ -16,3 +16,8 @@ https://choosealicense.com/licenses/gpl-3.0/
 
 
 
+amazon examples
+firecracker
+https://aws.amazon.com/de/opensource/
+
+https://github.com/firecracker-microvm/firecracker
